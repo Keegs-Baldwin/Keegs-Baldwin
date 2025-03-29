@@ -1,5 +1,3 @@
----
-
 # Hi there, I'm **Keigan Baldwin** 👋
 
 [![Email](https://img.shields.io/badge/Email-keiganbaldwin@gmail.com-blue?style=for-the-badge)](mailto:keiganbaldwin@gmail.com)  
@@ -37,5 +35,3 @@ _A concise overview of this project, highlighting its objective and outcomes._
 [GitHub Link](#)
 
 More projects will be added as I continue to develop new ideas.
-
----
