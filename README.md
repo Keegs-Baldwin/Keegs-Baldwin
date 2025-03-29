@@ -1,5 +1,3 @@
-Below is a version of the README adapted for you, Keigan Baldwin, with a professional tone and an added Projects section. You can further customize the project details as you build your portfolio.
-
 ---
 
 # Hi there, I'm **Keigan Baldwin** 👋
@@ -41,23 +39,3 @@ _A concise overview of this project, highlighting its objective and outcomes._
 More projects will be added as I continue to develop new ideas.
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- Your dynamic GitHub activity will appear here -->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Keigan Baldwin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=keiganbaldwin&show_icons=true&hide_border=false&title_color=007ACC&icon_color=007ACC&bg_color=ffffff&text_color=000000" />
-
-</details>
-
----
-
-Feel free to adjust the links and content as your projects evolve!
