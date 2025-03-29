@@ -29,9 +29,6 @@
 
 <br /><br />
 
-
-<br /><br />
-
 ## Projects
 
 ### [Project Name 1]
