@@ -11,22 +11,6 @@
 - 🥅 My goal for 2025: Deliver quality projects and grow professionally.
 - ⚡ Fun fact: I have a passion for entrepreneurship and creative problem-solving.
 
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](http://www.linkedin.com/in/keigan-baldwin)  
-[![Email](https://img.shields.io/badge/Email-keiganbaldwin@gmail.com-blue?style=flat-square)](mailto:keiganbaldwin@gmail.com)
-
-### Languages and Tools:
-
-[<img align="left" alt="C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Godot" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" style="padding-right:10px;" />](#)
-
-<br clear="left"/>
-
 <br /><br />
 
 ## Projects
@@ -40,3 +24,19 @@ _A concise overview of this project, highlighting its objective and outcomes._
 [GitHub Link](#)
 
 More projects will be added as I continue to develop new ideas.
+
+### Languages and Tools:
+
+[<img align="left" alt="C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Godot" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" style="padding-right:10px;" />](#)
+
+<br clear="left"/>
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](http://www.linkedin.com/in/keigan-baldwin)  
+[![Email](https://img.shields.io/badge/Email-keiganbaldwin@gmail.com-blue?style=flat-square)](mailto:keiganbaldwin@gmail.com)
