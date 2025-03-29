@@ -21,6 +21,13 @@
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Docker Compose" width="26px" src="https://raw.githubusercontent.com/docker/compose-cli/main/assets/docker-compose-logo.png" style="padding-right:10px;" />]
+[<img align="left" alt="gdot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Graphviz_logo.svg" style="padding-right:10px;" />]
+
+<br /><br />
+
 
 <br /><br />
 
