@@ -5,7 +5,7 @@
 
 ## I'm a First-Year Computer Science Student at Epitech Barcelona
 
-- 🔭 Currently expanding my knowledge through hands-on projects, exploring new technologies, and refining problem-solving skills.
+- 🔭 Currently learning through hands-on projects and exploring new technologies.
 - 🌱 I’m continuously learning and expanding my skills in software development.
 - 👯 I’m open to collaborating with like-minded developers.
 - 🥅 My goal for 2025: Deliver quality projects and grow professionally.
