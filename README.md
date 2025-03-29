@@ -5,13 +5,12 @@
 
 ## I'm a First-Year Computer Science Student at Epitech Barcelona
 
-- 🔭 Currently working on innovative projects and practical solutions.
+- 🔭 Currently expanding my knowledge through hands-on projects, exploring new technologies, and refining problem-solving skills.
 - 🌱 I’m continuously learning and expanding my skills in software development.
 - 👯 I’m open to collaborating with like-minded developers.
 - 🥅 My goal for 2025: Deliver quality projects and grow professionally.
-- ⚡ Fun fact: I have a passion for entrepreneurship and creative problem-solving.
+- ⚡ Fun fact: I love kitesurfing using the power of the wind to glide across the water and air!
 
-<br /><br />
 
 ## Projects
 
@@ -23,7 +22,6 @@ _A brief description of what this project does, the technologies used, and the p
 _A concise overview of this project, highlighting its objective and outcomes._  
 [GitHub Link](#)
 
-More projects will be added as I continue to develop new ideas.
 
 ### Languages and Tools:
 
