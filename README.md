@@ -25,9 +25,16 @@ This project helped me understand core concepts of UNIX system programming such 
 🔗 [GitHub Repository]([https://github.com/your-username/minishell](https://github.com/Keegs-Baldwin/my_shell))
 
 
-### [Project Name 2]
-_A concise overview of this project, highlighting its objective and outcomes._  
-[GitHub Link](#)
+### ✈️ My Radar – Project 2
+
+A real-time 2D air traffic control simulation written in **C**, using the **CSFML** graphics library.  
+The program handles aircraft movement, collision detection, and tower protection zones in a dynamic environment. It visually represents air traffic, simulates interactions, and terminates when all aircrafts have landed or been destroyed.
+
+**Objective:** Learn graphics programming, real-time simulations, and complex logic in C.  
+**Technologies used:** C, CSFML, Makefile
+
+🔗 [GitHub Repository]((https://github.com/Keegs-Baldwin/my_radar/))
+
 
 
 ### Languages and Tools:
