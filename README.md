@@ -22,7 +22,7 @@ This project helped me understand core concepts of UNIX system programming such 
 
 **Technologies used:** C, Makefile, POSIX system calls, UNIX environment
 
-🔗 [GitHub Repository]([https://github.com/Keegs-Baldwin/my_shell])
+🔗 [GitHub Repository](https://github.com/Keegs-Baldwin/my_shell)
 
 
 ### ✈️ My Radar – Project 2
