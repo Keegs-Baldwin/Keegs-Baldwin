@@ -33,7 +33,7 @@ The program handles aircraft movement, collision detection, and tower protection
 **Objective:** Learn graphics programming, real-time simulations, and complex logic in C.  
 **Technologies used:** C, CSFML, Makefile
 
-🔗 [GitHub Repository]((https://github.com/Keegs-Baldwin/my_radar/))
+🔗 [GitHub Repository](https://github.com/Keegs-Baldwin/my_radar/)
 
 
 
