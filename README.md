@@ -14,9 +14,16 @@
 
 ## Projects
 
-### [Project Name 1]
-_A brief description of what this project does, the technologies used, and the problem it solves._  
-[GitHub Link](#)
+### 🐚 Minishell – Project 1
+
+A custom UNIX shell written in C that mimics basic behavior of TCSH.  
+It supports built-in commands (`cd`, `env`, `setenv`, etc.), command execution via `PATH`, and advanced features like pipes (`|`), and redirections (`>`, `>>`, `<`).  
+This project helped me understand core concepts of UNIX system programming such as process management, piping, and environment handling.
+
+**Technologies used:** C, Makefile, POSIX system calls, UNIX environment
+
+🔗 [GitHub Repository]([https://github.com/your-username/minishell](https://github.com/Keegs-Baldwin/my_shell))
+
 
 ### [Project Name 2]
 _A concise overview of this project, highlighting its objective and outcomes._  
