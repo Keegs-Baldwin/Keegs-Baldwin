@@ -22,7 +22,7 @@ This project helped me understand core concepts of UNIX system programming such 
 
 **Technologies used:** C, Makefile, POSIX system calls, UNIX environment
 
-🔗 [GitHub Repository]([https://github.com/your-username/minishell](https://github.com/Keegs-Baldwin/my_shell))
+🔗 ![GitHub Repository]([https://github.com/your-username/minishell](https://github.com/Keegs-Baldwin/my_shell))
 
 
 ### ✈️ My Radar – Project 2
@@ -33,7 +33,7 @@ The program handles aircraft movement, collision detection, and tower protection
 **Objective:** Learn graphics programming, real-time simulations, and complex logic in C.  
 **Technologies used:** C, CSFML, Makefile
 
-🔗 [GitHub Repository]((https://github.com/Keegs-Baldwin/my_radar/))
+🔗 ![GitHub Repository]((https://github.com/Keegs-Baldwin/my_radar/))
 
 
 
