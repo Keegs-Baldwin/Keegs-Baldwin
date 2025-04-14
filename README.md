@@ -35,6 +35,20 @@ The program handles aircraft movement, collision detection, and tower protection
 
 🔗 [GitHub Repository](https://github.com/Keegs-Baldwin/my_radar/)
 
+### 🎮 Slyna's Adventure – Project 3
+
+A 2D platformer developed during a 48-hour Game Jam hosted by **IO Interactive** and **Epitech**.  
+I collaborated in a team of 5 as a **developer using Godot (v4.3)**. We built the entire game—including assets and logic—from scratch during the jam.
+
+The game features unique enemies, custom artwork, level progression, and polished player mechanics.  
+It was a great opportunity to dive into game development while learning how to collaborate effectively within a small, focused team.
+
+**Objective:** Explore game development fundamentals and teamwork under time pressure.  
+**Technologies used:** GDScript, Godot 4.3, Git, Aseprite (for sprite work)
+
+🔗 [GitHub Repository](https://github.com/CarrotCake002/IOI_Game_Jam)
+
+
 
 
 ### Languages and Tools:
