@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-keiganbaldwin@gmail.com-blue?style=for-the-badge)](mailto:keiganbaldwin@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](http://www.linkedin.com/in/keigan-baldwin)
 
-## I'm a First-Year Computer Science Student at Epitech Barcelona
+## I'm a Second-Year Computer Science Student at Epitech Barcelona
 
 - 🔭 Currently learning through hands-on projects and exploring new technologies.
 - 🌱 I’m continuously learning and expanding my skills in software development.
